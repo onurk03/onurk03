@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @onurk03
-- 🌱 I’m currently learning Computer Sciences (intro level)
-- 💞️ I’m looking to collaborate on any kind of small/basic projects
-- 📫 How to reach me ...
+- 🌱 I’m currently an freshman Computer Sciences student at UW Madison.
 
 <!---
 onurk03/onurk03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
